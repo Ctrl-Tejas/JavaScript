@@ -1,1 +1,1 @@
-# Internship-JavaScript
+#JavaScript
